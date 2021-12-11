@@ -2,9 +2,9 @@
 ![enter image description here](https://raw.githubusercontent.com/titaofdata/Kybi-Impact2050-Smarter-Cities/main/kybi-logo-png.png)
 
 Links: 
-[Bike Safety Dashboard](https://datastudio.google.com/reporting/6f4926e4-58c5-4c96-9b44-0b0015b7aa8a)
-[Kybi Landing Page](https://mailchi.mp/accf853c4869/kybi-bike-safety)
-[Metro Manila Bike Safety Network Visualization](https://infranodus.com/titaofdata/kybi-bike-safety-network-viz?background=default&most_influential=bc&maxnodes=150&labelsize=fixed&edgestype=line&drawedges=true&drawnodes=true&defaultlabelsize=14&dynamic=accumulate&cutgraph=1&selected=highlight&hide_always=1&stopwords=bike%20safety%20road%20metro%20manila%20edsa%20accident) 
+[Bike Safety Dashboard](https://datastudio.google.com/reporting/6f4926e4-58c5-4c96-9b44-0b0015b7aa8a) | 
+[Kybi Landing Page](https://mailchi.mp/accf853c4869/kybi-bike-safety) | 
+[Metro Manila Bike Safety Network Visualization](https://infranodus.com/titaofdata/kybi-bike-safety-network-viz?background=default&most_influential=bc&maxnodes=150&labelsize=fixed&edgestype=line&drawedges=true&drawnodes=true&defaultlabelsize=14&dynamic=accumulate&cutgraph=1&selected=highlight&hide_always=1&stopwords=bike%20safety%20road%20metro%20manila%20edsa%20accident) | 
 [Kybi Pitch Deck](https://docs.google.com/presentation/d/15F4XLs_xUKfGbGwMzzdAU24y7llmFyhutXcPQYeuA2k/edit?usp=sharing)
 
 Overview: 
