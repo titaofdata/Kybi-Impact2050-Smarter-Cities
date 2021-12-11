@@ -25,7 +25,7 @@ The safety score can be broken down to 9 factors:
 8. **Availability of CCTV (security) around the area**
 9. **Land use** (residential or economic zones)
 
-Kybi uses a combination of  machine learning to generate 
+Kybi uses a combination of crowdsourcing and machine learning to generate safety scores of bikeways.
 
 Our vision is to become the acknowledged data provider of data for safe bikeways and cycling urban mobility.
 
