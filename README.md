@@ -6,7 +6,8 @@ Links:
 [Kybi Landing Page](https://mailchi.mp/accf853c4869/kybi-bike-safety) | 
 [Metro Manila Bike Safety Network Visualization](https://infranodus.com/titaofdata/kybi-bike-safety-network-viz?background=default&most_influential=bc&maxnodes=150&labelsize=fixed&edgestype=line&drawedges=true&drawnodes=true&defaultlabelsize=14&dynamic=accumulate&cutgraph=1&selected=highlight&hide_always=1&stopwords=bike%20safety%20road%20metro%20manila%20edsa%20accident) | 
 [Kybi Pitch Deck](https://docs.google.com/presentation/d/15F4XLs_xUKfGbGwMzzdAU24y7llmFyhutXcPQYeuA2k/edit?usp=sharing) | 
-[Kybi Demo](https://youtu.be/ONJXGvldEh8)
+[Kybi Demo](https://youtu.be/ONJXGvldEh8) | 
+[Kybi Final Pitch, Q&A](https://youtu.be/XsWQI_48PGQ)
 
 Overview: 
 
